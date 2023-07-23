@@ -166,9 +166,10 @@
 }
 
 /* This is to hide the stick we're not using */
-.custom .stick.left{
-    display: none;
-}
+/*.custom .stick.left{/*
+/*   display: none;/*
+/*}
+
 /* This is to position the Roll pointer */
 .custom .stick.right{
     top: calc(-55px);
