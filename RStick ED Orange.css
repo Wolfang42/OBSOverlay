@@ -62,7 +62,7 @@
     display: inline-block;
     position: absolute;
     font-size: 15px;
-    color: #03b2e1;
+    color: #fba706;
     top: -1.5em;
     left: 50%;
     transform: translateX(-50%);
@@ -73,7 +73,7 @@
     display: inline-block;
     position: absolute;
     font-size: 15px;
-    color: #03b2e1;
+    color: #fba706;
     top: 50%;
     right: calc(80% + 1.25em);
     transform-origin: center;
@@ -141,7 +141,7 @@
     display: inline-block;
     background: black;
     position: absolute;
-    border: 2px solid #03b2e1;
+    border: 2px solid #fba706;
     border-radius: 20px;
     background-image: linear-gradient(90deg, transparent 48%, #002f3b 49%, #002f3b 50%, #002f3b 51%, transparent 52%, transparent);
     background-size: 100% calc(100% - 10px);
@@ -158,7 +158,7 @@
     display: inline-block;
     position: absolute;
     font-size: 14px;
-    color: #03b2e1;
+    color:#fba706;
     top: -1.5em;
     right: 50%;
     transform-origin: center;
