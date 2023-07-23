@@ -62,7 +62,7 @@
     border-color: transparent;
 }
 
-/* This part makes up the background of the Yaw part */
+/* This part makes up the background of the Roll part */
 .custom .triggers{
     width: 129px;
     height: 20px;
@@ -80,9 +80,9 @@
     top: 125px
 }
 
-/* Here we position the title for the Yaw axis */
+/* Here we position the title for the Roll axis */
 .custom .triggers:after{
-    content: "YAW";
+    content: "ROLL";
     display: inline-block;
     position: absolute;
     font-size: 14px;
@@ -97,7 +97,7 @@
 .custom .stick.left{
     display: none;
 }
-/* This is to position the Yaw pointer */
+/* This is to position the Roll pointer */
 .custom .stick.right{
     top: calc(-55px);
     left: 50%;
