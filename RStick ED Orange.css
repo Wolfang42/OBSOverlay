@@ -9,7 +9,7 @@
 .custom .bumper.pressed:after, .custom .button.pressed:after{
     background: red;
     color: black;
-    border-color: black;
+    border-color: #fba706;
     transition: none
 }
 
@@ -104,7 +104,7 @@
 
 /* FA Button */
 .custom .bumper.right:after{
-    content: "FA";
+    content: "FA ON";
     left: 68px;
     top: 45px;
     word-wrap: normal;
