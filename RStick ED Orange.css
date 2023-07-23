@@ -111,6 +111,7 @@
     word-wrap: normal;
     width: 49px;
     color: #fba706;
+    border: 2px solid #fba706;
     transition: none
 }
 /* FA Button when set to off */
@@ -118,6 +119,7 @@
     content: "FA OFF";
     color: black;
     background: #03b2e1;
+    border: 2px solid #fba706;
 }
 
 /*Chaff Button*/
