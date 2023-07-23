@@ -7,7 +7,7 @@
 }
 
 .custom .bumper.pressed:after, .custom .button.pressed:after{
-    background: red;
+    background: #03b2e1;
     color: black;
     border-color: #fba706;
     transition: none
@@ -131,7 +131,7 @@
 .custom .bumper.left:after{
     content: "BOOST";
     left: 68px;
-    background: #03b2e1;
+    
 }
 
 .custom .button.b:after{
@@ -140,10 +140,17 @@
     top: 45px;
 }
 
+.custom .button.b.pressed:after{
+    background: red;
+    color: black;
+    border-color: #fba706;
+    transition: none
+}
+
 .custom .button.x:after{
     content: "HEAT";
     right: 80px;
     top: 45px;
     width: 47px
-    background: #03b2e1;
+    
 }
