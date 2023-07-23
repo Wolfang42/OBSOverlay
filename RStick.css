@@ -69,7 +69,7 @@
 }
 
 .custom .sticks:after{
-    content: "ROLL";
+    content: "YAW";
     display: inline-block;
     position: absolute;
     font-size: 15px;
