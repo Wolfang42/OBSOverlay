@@ -86,9 +86,9 @@
 }
 
 /*Hiding the unused stick*/
-.custom .stick.right{
-    display: none
-}
+/*.custom .stick.right{*/
+/*    display: none*/
+/*}*/
 
 .custom .bumpers{
     position: absolute;
