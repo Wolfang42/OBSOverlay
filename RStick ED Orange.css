@@ -116,6 +116,7 @@
 /* FA Button when set to off */
 .custom .bumper.right.pressed:after{
     content: "FA OFF";
+    color: black;
 }
 
 /*Chaff Button*/
