@@ -7,7 +7,7 @@
 }
 
 .custom .bumper.pressed:after, .custom .button.pressed:after{
-    background: red;
+    background: #03b2e1;
     color: black;
     border-color: #fba706;
     transition: none
