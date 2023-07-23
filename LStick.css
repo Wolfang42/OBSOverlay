@@ -136,12 +136,6 @@
     left: 68px;
 }
 
-.custom .button.a:after{
-    content: "ECM";
-    right: 0;
-    width: 51px;
-}
-
 .custom .button.b:after{
     content: "SILENT";
     right: 0;
